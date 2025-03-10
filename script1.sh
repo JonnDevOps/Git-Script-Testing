@@ -7,3 +7,6 @@ echo $name you are welcome
 echo what is your pin
 read pin
 echo your $pin is accepted
+
+This is an addition to check for errors
+adding more
