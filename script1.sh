@@ -7,5 +7,3 @@ echo $name you are welcome
 echo what is your pin
 read pin
 echo your $pin is accepted
-
-lets see if conflicts occurs
